@@ -1,2 +1,2 @@
-# dimensionaltalesmod
+# Dimensional Tales
 Adds Dimensions to Minecraft!
