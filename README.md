@@ -5,10 +5,11 @@ Welcome to the WIP Website for the mod, Dimensional Tales. This is a minecraft m
 You can contact me by either GitHub or these References
 http://www.minecraftforum.net/members/DieHardTeam
 https://twitter.com/DarkSamusPlays
+Warrior 
 
 # I wanna Help!
 You can contact me if you wanted to help also my Patreon
-https://www.patreon.com/user?u=3737741
+https://www.patreon.com/user?u=3737741 or add me on discord Warrior Unit#7690
 
 # Credits
 Me, for making the mod
