@@ -9,7 +9,7 @@ import cpw.mods.fml.common.event.*;
 import com.diehardsteam.dimensionaltales.biomes.*;
 import net.minecraft.world.*;
 
-@Mod(modid = "dimensionaltales", name = "Dimensional Tales", version = "0.1")
+@Mod(modid = "dimensionaltales", name = "Dimensional Tales", version = "1.0")
 public class MainRegistry
 {
     @SidedProxy(clientSide = "com.diehardsteam.dimensionaltales.library.ClientProxy", serverSide = "com.diehardsteam.dimensionaltales.library.ServerProxy")
