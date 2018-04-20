@@ -16,10 +16,15 @@ Forge 1.12: TBA
 
 # Contact me
 You can contact me by either GitHub or these References
+
 http://www.minecraftforum.net/members/DieHardTeam
+
 https://twitter.com/DarkSamusPlays
+
 warrior_unit on Skype
+
 Chirumiru#7690 on Discord
+
 https://www.patreon.com/user?u=3737741 on Patreon
 
 # I wanna Help!
@@ -27,7 +32,9 @@ You can contact me if you wanted to help
 
 # Credits
 Me, for making the mod
+
 You, for playing it
+
 Those on Patreon, for Donating
 
 # Building
