@@ -42,7 +42,7 @@ public class OreRegistry implements IWorldGenerator
     }
     
     private void generateOverworld(final Random random, final int chunkX, final int chunkZ, final World world) {
-        this.addOre(BlockRegistry.obsidiumOre, Blocks.stone, random, world, chunkX, chunkZ, 5, 30, 1, 2, 20);
+        this.addOre(BlockRegistry.obsidiumOre, Blocks.stone, random, world, chunkX, chunkZ, 5, 30, 1, 2, 50);
     }
     
     private void generateNether(final Random random, final int chunkX, final int chunkY, final World world) {
